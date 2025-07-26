@@ -23,7 +23,7 @@ The dataset `t.xlsx` was sourced from CoinGecko and includes:
 Built with **Tableau Public**, these visualizations help explore how various coins behave over time.
 
 ### 📌 Visualization 1: Overview Dashboard
-![Visualization 1](images/tableau_visualization1.png)
+![Visualization 1 Preview](tableau_visualization1.png)
 
 - Bar chart comparing coins on multiple metrics: **price change**, **volume**, and **market cap**.
 - Identifies which coins are gaining/losing traction short-term (1H/24H) vs long-term (7D).
@@ -32,7 +32,7 @@ Built with **Tableau Public**, these visualizations help explore how various coi
 ---
 
 ### 📌 Visualization 2: Expanded Metric View
-![Visualization 2](images/tableau_visualization2.png)
+![Visualization 2 Preview](tableau_visualization2.png)
 
 - Highlights specific coins with sharp changes.
 - Allows visual filtering based on timeframes (1H, 24H, 7D).
